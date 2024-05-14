@@ -2,7 +2,7 @@
 
 # 🗻 Fuji Mountain Animation
 
-![Fuji Mountain](./public/demo.gif)
+![Fuji Mountain](./fuji.gif)
 
 This project features an animated scene of Mount Fuji with moving clouds, showcasing intricate CSS animations and gradients.
 
